@@ -18,7 +18,7 @@ If you'd like to test the new features earlier, run the following command to ins
 curl -f https://zed.dev/install.sh | ZED_CHANNEL=preview sh
 ```
 
-![Install Zed in terminal](./images/zedinstall.img)
+![Install Zed in terminal](./images/zedinstall.png)
 
 ### 2️⃣ Launch Zed
 Once installed, open Zed from the terminal:
@@ -30,7 +30,7 @@ zed
 Or launch it from the application menu.
 Zed editor window will be appeared as follows:
 
-![Open Zed](./images/zedwindow.img)
+![Open Zed](./images/zedwindow.png)
 
 ### 3️⃣ (Optional) Create a Desktop Shortcut
 To add Zed to the applications list, create a `.desktop` entry:
