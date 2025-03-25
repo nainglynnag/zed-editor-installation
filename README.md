@@ -75,7 +75,7 @@ Zed version X.Y.Z
 ---
 
 ## 🛠 Official Docs
-If you have any problem, you can also check it on the ![Zed Editor](https://zed.dev/docs/getting-started) official website.
+If you have any problem, you can also check it on the [Zed Editor](https://zed.dev/docs/getting-started) official website.
 
 
 ## 📌 Uninstalling Zed
