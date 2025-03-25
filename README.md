@@ -65,11 +65,12 @@ To ensure Zed is installed correctly, run:
 zed --version
 ```
 
-You should see output similar to:
+You will see output similar to:
 
 ```sh
 Zed version X.Y.Z
 ```
+![Zed Version](./images/zedversion.png)
 
 ---
 
